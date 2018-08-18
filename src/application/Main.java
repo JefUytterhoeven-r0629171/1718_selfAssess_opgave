@@ -15,6 +15,8 @@ import view.panels.QuestionDetailPane;
 import view.panels.QuestionOverviewPane;
 import view.panels.TestPane;
 
+// @author Jef Uytterhoeven 2018
+
 public class Main extends Application {
 
 	@Override

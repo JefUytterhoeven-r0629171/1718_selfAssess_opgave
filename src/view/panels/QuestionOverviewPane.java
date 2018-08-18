@@ -1,5 +1,5 @@
 package view.panels;
-
+//@author Jef Uytterhoeven 2018
 import controller.Controller;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;

@@ -1,5 +1,5 @@
 package view.panels;
-
+//@author Jef Uytterhoeven 2018
 import javafx.geometry.Pos;
 import javafx.scene.control.Tab;
 import javafx.scene.control.TabPane;

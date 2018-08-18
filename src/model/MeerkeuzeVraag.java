@@ -1,5 +1,5 @@
 package model;
-
+//@author Jef Uytterhoeven 2018
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;

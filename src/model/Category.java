@@ -1,5 +1,5 @@
 package model;
-
+//@author Jef Uytterhoeven 2018
 public class Category {
 	int categoryid;
 	String title, description;

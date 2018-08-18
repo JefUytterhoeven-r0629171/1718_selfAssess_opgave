@@ -1,5 +1,5 @@
 package view.panels;
-
+//@author Jef Uytterhoeven 2018
 import java.awt.TextField;
 
 import model.Observer;

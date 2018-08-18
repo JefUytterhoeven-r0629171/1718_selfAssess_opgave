@@ -1,5 +1,5 @@
 package model;
-
+//@author Jef Uytterhoeven 2018
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;

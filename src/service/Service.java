@@ -1,5 +1,5 @@
 package service;
-
+//@author Jef Uytterhoeven 2018
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
